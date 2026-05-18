@@ -78,6 +78,3 @@ The model's performance is evaluated using standard metrics:
 
 ## Contributing
 Feel free to fork this repository, submit pull requests, or open issues to suggest improvements or report bugs.
-
-
-```
